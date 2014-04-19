@@ -35,3 +35,4 @@
 #* Author: Eitan Marder-Eppstein
 #***********************************************************
 from _tf2 import *
+from static_broadcaster import StaticTransformBroadcaster
